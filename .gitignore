@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+HatingSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+HatingSim/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+HatingSim/Saved/AutoScreenshot.png
+HatingSim/Intermediate/CachedAssetRegistry_0.bin
+HatingSim/Saved/Logs/HatingSim.log
+HatingSim/Saved/Telemetry/Telemetry.json
