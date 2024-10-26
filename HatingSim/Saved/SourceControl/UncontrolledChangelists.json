@@ -6,7 +6,24 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/HatingSim/HatingSimulator/HatingSim/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Blueprints/BP_HatingSimGameMode.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/BPs/BP_HatingSimGameMode.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/Input/Actions/IA_Move.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/Input/Actions/IA_Look.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/Input/Actions/IA_Jump.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/Input/IMC_Default.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/BPs/BP_ThirdPersonCharacter.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/BPs/BP_PlayerCharacter.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/BPs/BP_GameManager.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/HatingSim/BPs/BP_TableBase.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/59/UBT7V2OVX0IK8FRNV4MB03.uasset",
+				"D:/HatingSim/HatingSimulator/HatingSim/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SZ/HFO2MCQ9WI51UNMVJFLYDV.uasset"
 			]
 		}
 	]
